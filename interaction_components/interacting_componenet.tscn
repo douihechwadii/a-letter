@@ -1,0 +1,47 @@
+[gd_scene load_steps=5 format=3 uid="uid://di0loympo0ynf"]
+
+[ext_resource type="Script" path="res://scripts/interacting_componenet.gd" id="1_ifytw"]
+[ext_resource type="FontFile" uid="uid://ctfpo4uui4q54" path="res://assets/fonts/Daydream.ttf" id="1_sqgol"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_klhsp"]
+radius = 42.0476
+
+[sub_resource type="LabelSettings" id="LabelSettings_8xhhc"]
+font = ExtResource("1_sqgol")
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+
+[node name="interacting_componenet" type="Node2D"]
+position = Vector2(0, -5)
+scale = Vector2(0.44, 0.44)
+script = ExtResource("1_ifytw")
+
+[node name="interact_range" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="interact_range"]
+shape = SubResource("CircleShape2D_klhsp")
+
+[node name="interact_label" type="Label" parent="."]
+visible = false
+z_index = 10
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -52.2727
+offset_top = -63.6363
+offset_right = 136.727
+offset_bottom = -40.6363
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.545452, 0.545452)
+text = "E to Interact"
+label_settings = SubResource("LabelSettings_8xhhc")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="area_entered" from="interact_range" to="." method="_on_interact_range_area_entered"]
+[connection signal="area_exited" from="interact_range" to="." method="_on_interact_range_area_exited"]

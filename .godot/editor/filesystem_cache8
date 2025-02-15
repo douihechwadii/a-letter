@@ -1,0 +1,113 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739545616
+export_presets.cfg::TextFile::-1::1739544406::0::1::::<><>::
+::res://assets/::1739537608
+::res://assets/audio/::1739541036
+::res://assets/audio/recording/::1739541045
+level_1_recording.mp3::AudioStreamMP3::7457673867068961863::1739541045::1739541045::1::::<><>::
+level_2_recording.mp3::AudioStreamMP3::1435746463267777489::1739541045::1739541045::1::::<><>::
+level_3_recording.mp3::AudioStreamMP3::868132798317431129::1739541045::1739541045::1::::<><>::
+level_4_recording.mp3::AudioStreamMP3::8077661276616970016::1739541045::1739541045::1::::<><>::
+level_5_recording.mp3::AudioStreamMP3::8667966314493083979::1739541045::1739541045::1::::<><>::
+level_6_recording.mp3::AudioStreamMP3::8866795181355370347::1739541045::1739541045::1::::<><>::
+level_7_recording.mp3::AudioStreamMP3::6460764590086768245::1739541045::1739541045::1::::<><>::
+level_8_recording.mp3::AudioStreamMP3::3740331881746061137::1739541045::1739541045::1::::<><>::
+::res://assets/audio/soundtracks/::1739537955
+level_1_soundtrack.mp3::AudioStreamMP3::1912127327392955216::1739537954::1739537955::1::::<><>::
+level_2_soundtrack.mp3::AudioStreamMP3::4257378148372303692::1739537954::1739537955::1::::<><>::
+level_3_soundtrack.mp3::AudioStreamMP3::4446924407130003476::1739537954::1739537955::1::::<><>::
+level_4_soundtrack.mp3::AudioStreamMP3::8099619514091224108::1739537954::1739537955::1::::<><>::
+level_5_soundtrack.mp3::AudioStreamMP3::3462470080505739825::1739537954::1739537955::1::::<><>::
+level_6_soundtrack.mp3::AudioStreamMP3::5036845580027482839::1739537954::1739537955::1::::<><>::
+level_7_soundtrack.mp3::AudioStreamMP3::2903442645973579512::1739537954::1739537955::1::::<><>::
+level_8_soundtrack.mp3::AudioStreamMP3::5668685032503439214::1739537954::1739537955::1::::<><>::
+main_menu_soundtrack.mp3::AudioStreamMP3::3946970330831361379::1739537626::1739537637::1::::<><>::
+::res://assets/backgrounds/::1739480209
+Blue.png::CompressedTexture2D::3844376948792763483::1739471406::1739471413::1::::<><>::
+Brown.png::CompressedTexture2D::6106504962890082707::1739471406::1739471413::1::::<><>::
+Gray.png::CompressedTexture2D::210080171456133729::1739471406::1739471413::1::::<><>::
+Green.png::CompressedTexture2D::8286012692880174473::1739471406::1739471413::1::::<><>::
+main_menu_background.png::CompressedTexture2D::7290138652029457635::1739469011::1739469270::1::::<><>::
+Pink.png::CompressedTexture2D::2266455346846997026::1739471406::1739471413::1::::<><>::
+Purple.png::CompressedTexture2D::878732923322963588::1739471406::1739471413::1::::<><>::
+Yellow.png::CompressedTexture2D::376233400841204445::1739471406::1739471413::1::::<><>::
+::res://assets/fonts/::1739469318
+Daydream.ttf::FontFile::6117688596279082817::1739469311::1739469318::1::::<><>::
+::res://assets/ground/::1739471542
+Terrain (16x16).png::CompressedTexture2D::6493542621389862374::1739471542::1739471542::1::::<><>::
+::res://assets/Items/::1739476701
+::res://assets/Items/Boxes/::1739476701
+::res://assets/Items/Boxes/Box1/::1739476722
+Break.png::CompressedTexture2D::4241108642805519058::1739476701::1739476722::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::4221768480670709263::1739476701::1739476722::1::::<><>::
+Idle.png::CompressedTexture2D::498165393575887978::1739476701::1739476722::1::::<><>::
+::res://assets/Items/Boxes/Box2/::1739476722
+Break.png::CompressedTexture2D::6395200101414442736::1739476701::1739476722::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::578446109909158488::1739476701::1739476722::1::::<><>::
+Idle.png::CompressedTexture2D::4775680334989716886::1739476701::1739476722::1::::<><>::
+::res://assets/Items/Boxes/Box3/::1739476722
+Break.png::CompressedTexture2D::6305232854974486436::1739476701::1739476722::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::7287615413136347326::1739476701::1739476722::1::::<><>::
+Idle.png::CompressedTexture2D::9025744615539715485::1739476701::1739476722::1::::<><>::
+::res://assets/Items/Checkpoints/::1739476701
+::res://assets/Items/Checkpoints/Checkpoint/::1739476722
+Checkpoint (Flag Idle)(64x64).png::CompressedTexture2D::3664945371980030358::1739476701::1739476722::1::::<><>::
+Checkpoint (Flag Out) (64x64).png::CompressedTexture2D::1658828509746668489::1739476701::1739476722::1::::<><>::
+Checkpoint (No Flag).png::CompressedTexture2D::9044137688302602806::1739476701::1739476722::1::::<><>::
+::res://assets/Items/Checkpoints/End/::1739476722
+End (Idle).png::CompressedTexture2D::8750851049213299349::1739476701::1739476722::1::::<><>::
+End (Pressed) (64x64).png::CompressedTexture2D::9040187807492323658::1739476701::1739476722::1::::<><>::
+::res://assets/Items/Checkpoints/Start/::1739476722
+Start (Idle).png::CompressedTexture2D::744052406738877180::1739476701::1739476722::1::::<><>::
+Start (Moving) (64x64).png::CompressedTexture2D::5787467519047588065::1739476701::1739476722::1::::<><>::
+::res://assets/Items/Fruits/::1739476722
+Apple.png::CompressedTexture2D::449004210516359807::1739476701::1739476722::1::::<><>::
+Bananas.png::CompressedTexture2D::1934829357806491258::1739476701::1739476722::1::::<><>::
+Cherries.png::CompressedTexture2D::883679472223360194::1739476701::1739476722::1::::<><>::
+Collected.png::CompressedTexture2D::827756371169791680::1739476701::1739476722::1::::<><>::
+Kiwi.png::CompressedTexture2D::8924133184140898133::1739476701::1739476722::1::::<><>::
+Melon.png::CompressedTexture2D::7810946231068680415::1739476701::1739476722::1::::<><>::
+Orange.png::CompressedTexture2D::4108055678221167203::1739476701::1739476722::1::::<><>::
+Pineapple.png::CompressedTexture2D::8525035004382024422::1739476701::1739476722::1::::<><>::
+Strawberry.png::CompressedTexture2D::6695074227734559860::1739476701::1739476722::1::::<><>::
+::res://assets/player/::1739475026
+turtle_idle.png::CompressedTexture2D::847159519220975301::1739475018::1739475026::1::::<><>::
+turtle_jump.png::CompressedTexture2D::7812623147329322982::1738953693::1739472753::1::::<><>::
+turtle_run.png::CompressedTexture2D::4148320785115991459::1738953673::1739472753::1::::<><>::
+::res://final/::1739544406
+::res://interaction_components/::1739544255
+interactable.gd::GDScript::-1::1739542825::0::1::::<>Area2D<>::
+interactable.tscn::PackedScene::5268424073766498136::1739488739::0::1::::<><>::res://scripts/interactable.gd
+interacting_componenet.tscn::PackedScene::7773076411869463591::1739544255::0::1::::<><>::res://scripts/interacting_componenet.gd<>uid://ctfpo4uui4q54::::res://assets/fonts/Daydream.ttf
+::res://objects/::1739529426
+moving_platform.tscn::PackedScene::8483696385406796455::1739529426::0::1::::<><>::uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png
+::res://scenes/::1739544255
+end_point.tscn::PackedScene::4643321423243521544::1739543032::0::1::::<><>::uid://bshld5y63boyg::::res://assets/Items/Checkpoints/Checkpoint/Checkpoint (Flag Idle)(64x64).png<>uid://chccf7bdq5ol1::::res://interaction_components/interactable.tscn<>res://interaction_components/interactable.gd
+level_1.tscn::PackedScene::8610484935135565757::1739544254::0::1::::<><>::uid://dqb2ohy08e2gb::::res://assets/backgrounds/Green.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/level_1_end_point.gd<>uid://ctfpo4uui4q54::::res://assets/fonts/Daydream.ttf<>res://scripts/next_level.gd<>uid://b6yc47j5c1y2k::::res://scenes/level_2.tscn<>uid://2iiptedr0r0c::::res://assets/audio/soundtracks/level_1_soundtrack.mp3<>uid://deis2fwk7gs12::::res://assets/audio/recording/level_1_recording.mp3
+level_2.tscn::PackedScene::4611994820595544816::1739544254::0::1::::<><>::uid://c808wem444fl::::res://assets/backgrounds/Gray.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>res://scripts/level_2_end_point.gd<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/next_level.gd<>uid://bfnyind0c1tj0::::res://scenes/level_3.tscn<>uid://b1wknp5bjtujc::::res://assets/audio/soundtracks/level_2_soundtrack.mp3<>uid://upqsf4nlgf5b::::res://assets/audio/recording/level_2_recording.mp3
+level_3.tscn::PackedScene::2765673995441241959::1739544254::0::1::::<><>::uid://mrwuq56b1gqm::::res://assets/backgrounds/Purple.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>res://scripts/level_3_end_point.gd<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/next_level.gd<>uid://ds4tifolnfdjr::::res://objects/moving_platform.tscn<>uid://gmkyq7krpslv::::res://scenes/level_4.tscn<>uid://b4megv0l5kmto::::res://assets/audio/soundtracks/level_3_soundtrack.mp3<>uid://mmsaxr61ogl2::::res://assets/audio/recording/level_3_recording.mp3
+level_4.tscn::PackedScene::446556514143320091::1739544255::0::1::::<><>::uid://bu1ildvxb2q5x::::res://assets/backgrounds/Blue.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>res://scripts/level_4_end_point.gd<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/next_level.gd<>res://scripts/dead_zone.gd<>uid://b0tkyhv0pge7p::::res://scenes/level_5.tscn<>uid://dnnrsx3kbdq1q::::res://assets/audio/soundtracks/level_4_soundtrack.mp3<>uid://dnc45vvplhaay::::res://assets/audio/recording/level_4_recording.mp3
+level_5.tscn::PackedScene::4181015382212944479::1739544255::0::1::::<><>::uid://mrwuq56b1gqm::::res://assets/backgrounds/Purple.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>res://scripts/level_5_end_point.gd<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/next_level.gd<>res://scripts/fall_area_lv5.gd<>uid://881gofb3qd3j::::res://scenes/level_6.tscn<>uid://ds4tifolnfdjr::::res://objects/moving_platform.tscn<>uid://ctfpo4uui4q54::::res://assets/fonts/Daydream.ttf<>uid://bplim2cfxnp82::::res://assets/audio/soundtracks/level_5_soundtrack.mp3<>uid://dvq3eypfnbes6::::res://assets/audio/recording/level_5_recording.mp3
+level_6.tscn::PackedScene::2385946405648808941::1739544255::0::1::::<><>::uid://fmirktm0j7u4::::res://assets/backgrounds/Yellow.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>res://scripts/level_6_end_point.gd<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/next_level.gd<>res://scripts/fall_area_lv5.gd<>uid://baywpc7p7obtr::::res://scenes/level_7.tscn<>uid://cd05d1dklkomh::::res://assets/audio/soundtracks/level_6_soundtrack.mp3<>uid://dyle26jy8mqwp::::res://assets/audio/recording/level_6_recording.mp3
+level_7.tscn::PackedScene::2437328465745259115::1739544255::0::1::::<><>::uid://ctabikyqbd188::::res://assets/backgrounds/Brown.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/level_7_end_point.gd<>res://scripts/next_level.gd<>res://scripts/fall_area_lv5.gd<>uid://0qoghxncaeb::::res://scenes/level_8.tscn<>uid://ctfpo4uui4q54::::res://assets/fonts/Daydream.ttf<>uid://bhmpjnjaqslho::::res://assets/audio/soundtracks/level_7_soundtrack.mp3<>uid://cybv34j7qo7f2::::res://assets/audio/recording/level_7_recording.mp3
+level_8.tscn::PackedScene::52606243866624009::1739544255::0::1::::<><>::uid://dqb2ohy08e2gb::::res://assets/backgrounds/Green.png<>uid://cyrrx0giogoew::::res://assets/ground/Terrain (16x16).png<>uid://b7fi3chhj5185::::res://scenes/end_point.tscn<>uid://bdqvkqxpwf4ch::::res://scenes/player.tscn<>res://scripts/level_8_end_point.gd<>res://scripts/next_level.gd<>uid://d2bsa6vdcwop3::::res://scenes/main_menu.tscn<>uid://ctfpo4uui4q54::::res://assets/fonts/Daydream.ttf<>uid://cm07oc54nikig::::res://assets/audio/soundtracks/level_8_soundtrack.mp3<>uid://btj3yp5cfrt4t::::res://assets/audio/recording/level_8_recording.mp3
+main_menu.tscn::PackedScene::9057519773734641218::1739544255::0::1::::<><>::uid://db4nrvm8k8fd8::::res://assets/backgrounds/main_menu_background.png<>res://scripts/main_menu.gd<>uid://ctfpo4uui4q54::::res://assets/fonts/Daydream.ttf<>res://scripts/main_menu_label.gd<>uid://bwh7a3snc0c32::::res://assets/audio/soundtracks/main_menu_soundtrack.mp3
+player.tscn::PackedScene::2631311050074564071::1739544254::0::1::::<><>::res://scripts/player.gd<>uid://mcmugdk2fwif::::res://assets/player/turtle_idle.png<>uid://djkq05vycspby::::res://assets/player/turtle_jump.png<>uid://b0dqicjaskkf8::::res://assets/player/turtle_run.png<>uid://di0loympo0ynf::::res://interaction_components/interacting_componenet.tscn
+::res://scripts/::1739543321
+dead_zone.gd::GDScript::-1::1739529916::0::1::::<>Area2D<>::
+end_point.gd::GDScript::-1::1739542523::0::1::::<>StaticBody2D<>::
+fall_area_lv5.gd::GDScript::-1::1739530638::0::1::::<>Area2D<>::
+interactable.gd::GDScript::-1::1739477761::0::1::::<>Area2D<>::
+interacting_componenet.gd::GDScript::-1::1739541839::0::1::::<>Node2D<>::
+level_1_end_point.gd::GDScript::-1::1739542582::0::1::::<>StaticBody2D<>::
+level_2_end_point.gd::GDScript::-1::1739542623::0::1::::<>StaticBody2D<>::
+level_3_end_point.gd::GDScript::-1::1739543129::0::1::::<>StaticBody2D<>::
+level_4_end_point.gd::GDScript::-1::1739543168::0::1::::<>StaticBody2D<>::
+level_5_end_point.gd::GDScript::-1::1739543212::0::1::::<>StaticBody2D<>::
+level_6_end_point.gd::GDScript::-1::1739543253::0::1::::<>StaticBody2D<>::
+level_7_end_point.gd::GDScript::-1::1739543287::0::1::::<>StaticBody2D<>::
+level_8_end_point.gd::GDScript::-1::1739543321::0::1::::<>StaticBody2D<>::
+main_menu.gd::GDScript::-1::1739484991::0::1::::<>Control<>::
+main_menu_label.gd::GDScript::-1::1739470942::0::1::::<>Label<>::
+next_level.gd::GDScript::-1::1739488693::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1739532663::0::1::::<>CharacterBody2D<>::
